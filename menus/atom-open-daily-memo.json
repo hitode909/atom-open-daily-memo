@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Daily memo",
+          "submenu": [
+            {
+              "label": "Open daily memo",
+              "command": "sketch-atom-open-daily-memo:open-memo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-n": "atom-open-daily-memo:open-memo"
+  }
+}
