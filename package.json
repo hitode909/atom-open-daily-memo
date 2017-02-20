@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-open-daily-memo:open-memo"
   },
-  "repository": "https://github.com/atom/atom-open-daily-memo",
+  "repository": "https://github.com/hitode909/atom-open-daily-memo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
