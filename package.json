@@ -12,8 +12,8 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "expand-home-dir": "0.0.3"
-  }
+  },
+  "devDependencies": {}
 }
