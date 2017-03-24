@@ -8,7 +8,7 @@
           "submenu": [
             {
               "label": "Open daily memo",
-              "command": "sketch-atom-open-daily-memo:open-memo"
+              "command": "atom-open-daily-memo:open-memo"
             }
           ]
         }
