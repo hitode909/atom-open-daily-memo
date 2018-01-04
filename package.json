@@ -1,7 +1,7 @@
 {
   "name": "atom-open-daily-memo",
   "main": "./lib/atom-open-daily-memo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Open daily memo",
   "keywords": [],
   "activationCommands": {
